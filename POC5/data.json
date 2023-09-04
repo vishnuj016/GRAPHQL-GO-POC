@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Crimson Uprising",
+    "author": "Vishnu J",
+    "review": "Magnificent"
+  },
+  {
+    "id": "ID_3",
+    "title": "Sample Book 3",
+    "author": "Author 3",
+    "review": "Excellent read"
+  },
+  {
+    "id": "ID_4",
+    "title": "Harry Potter",
+    "author": "JK Rowling",
+    "review": "Excellent read"
+  }
+]
